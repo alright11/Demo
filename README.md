@@ -1,3 +1,3 @@
 # DEMO
 
-Getting Started.
+Getting Started!
